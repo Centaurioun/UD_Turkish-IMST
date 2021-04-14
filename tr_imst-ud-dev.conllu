@@ -11971,7 +11971,7 @@
 4	kurtulmak	kurtul	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	10	nmod	_	_
 5	için	için	ADP	PCNom	_	4	case	_	_
 6	bedenim	beden	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	10	nsubj	_	_
-7	delice	delice	ADV	Advmod	_	9	advmod	_	_
+7	delice	delice	ADV	Adverb	_	9	advmod	_	_
 8	bir	bir	NUM	ANum	NumType=Card	9	det	_	_
 9	enerji	enerji	NOUN	Noun	Case=Nom|Number=Sing|Person=3	10	obj	_	_
 10	harcıyor	harca	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	_
